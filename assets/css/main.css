@@ -1,1 +1,5 @@
-a.feature {text-decoration: none}
+img.three-column-logo {height: 200px; width: 200px}
+img.featurette-image {height: 500px; width: 500px}
+
+/* remove link formatting */
+a {text-decoration: none}
