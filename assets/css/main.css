@@ -3,3 +3,7 @@ img.featurette-image {height: 500px; width: 500px}
 
 /* remove link formatting */
 a {text-decoration: none}
+
+/* move banner image below nav bar */
+
+img.banner {padding-top:120px;}
