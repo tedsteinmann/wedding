@@ -1,0 +1,12 @@
+img.three-column-logo {height: 200px; width: 200px}
+img.featurette-image {height: 500px; width: 500px}
+
+/* remove link formatting */
+a {text-decoration: none}
+
+/* move banner image below nav bar */
+
+img.banner {
+	margin-top:120px;
+	min-width: 60%;
+}
